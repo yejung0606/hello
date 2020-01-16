@@ -5,6 +5,6 @@ Date: 2020/01/16
 #include <stdio.h>
 
 int main(void) {
-     printf("Hello World!\n");
+     printf("Hello YeJung!\n");
      return 0;
 }
