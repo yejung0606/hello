@@ -6,5 +6,7 @@ Date: 2020/01/16
 
 int main(void) {
      printf("Hello YeJung!\n");
+     printf("Nhu Le\n");
+     prinyf("Electrical Engineering\n");
      return 0;
 }
